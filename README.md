@@ -7,3 +7,4 @@ For example, a contact-formatting skill can keep its exact output spacing and du
 ## Paid download
 
 Checkout is coming soon. The buyer download will include the SkillPort skill and a worked example.
+ The one-time price is ₹210.
